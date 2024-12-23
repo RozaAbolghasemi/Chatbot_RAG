@@ -15,7 +15,6 @@ This repository contains the implementation of a Retrieval-Augmented Generation 
 * PyPDF2: Processes and extracts text from PDF files.
 * OpenAI GPT API: For generating contextually accurate responses.
 
-## Installation
 
 ## Dependencies
 The code can be implemented in Python 3.8 or higher.
