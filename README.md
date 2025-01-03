@@ -17,7 +17,7 @@ This repository contains the implementation of a Retrieval-Augmented Generation 
 
 
 ## Dependencies
-The code can be implemented in Python 3.8 or higher.
+The code can be implemented in Python 3.8 or higher. Install the following and import them to be able to run the codes.
 ```
 flask
 openai
